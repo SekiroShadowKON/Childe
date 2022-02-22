@@ -1,0 +1,66 @@
+
+.G1 {
+    color: blueviolet;
+}
+#FirstButton{
+    position:relative;
+    left: 580px;
+    border-color: darkblue;
+    color: #3476EC;
+    border-radius:50px;
+}
+span.G2{
+    font-family: monospace;
+
+}
+body p{
+    text-align: center;
+
+}
+#backGvideo {
+    background-size: cover;
+}
+
+#Gif1{
+    width: 640px; height: 520px;
+    position:relative;
+    left: 40%;
+}
+div#im
+#image2 img{
+    position: relative;
+    left:5%;
+
+    
+}
+
+.image1{
+    border-style: solid;
+    width: 200px;; height: 356px;
+    position: relative;
+    left: 42;
+
+    
+}
+#mainHead{
+    text-align: center;
+    font-size: 75px;
+    font-family: 'Kanit', sans-serif;
+    
+}
+#subHead{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Kanit', sans-serif;
+}
+#fatui{
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Kanit', sans-serif;
+}
+div.Para
+{
+    font-family: 'Kanit', sans-serif;
+    font-size: 25px;
+}
+
